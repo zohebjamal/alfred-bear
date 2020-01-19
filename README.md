@@ -1,5 +1,7 @@
 # Bear Alfred Workflow
 
+Forked from [chrisbro/alfred-bear](https://github.com/chrisbro/alfred-bear)
+
 [Alfred workflow](https://www.alfredapp.com/workflows/) to search and create notes in [Bear](http://www.bear-writer.com/). View it on [Packal](http://www.packal.org/workflow/bear), or [join in the discussion on the Alfred forums](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/).
 
 ## Install
